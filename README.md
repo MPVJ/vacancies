@@ -100,4 +100,4 @@ streamlit run app.py
 
 ## 📄 Лицензия
 
-Проект распространяется под свободной лицензией **GNU Affero General Public License v3.0 (AGPL-3.0)** от 19 ноября 2007 года. Подробные условия доступны в файле [LICENSE](LICENSE) или на [официальном сайте GNU](https://gnu.org.html).
+Проект распространяется под свободной лицензией **GNU Affero General Public License v3.0 (AGPL-3.0)** от 19 ноября 2007 года. Подробные условия доступны в файле [LICENSE](LICENSE) или на [официальном сайте GNU](https://www.gnu.org/licenses/agpl-3.0.html).
