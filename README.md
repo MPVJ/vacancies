@@ -1,11 +1,9 @@
 # 💼 Мониторинг и парсер вакансий в РФ («Работа России»)
 
-[![Python](https://shields.io)](https://python.org)
-[![Streamlit](https://shields.io)](https://streamlit.io)
-[![Altair](https://shields.io)](https://github.io)
-[![License: AGPL v3](https://shields.io)](https://gnu.org)
+🐍 **Python 3.10+** • 🎈 **Streamlit 1.39+** • 📊 **Altair 5.4+** • ⚖️ **Лицензия: GNU AGPL v3**
 
 Интерактивное веб-приложение на базе **Streamlit** для сбора, фильтрации, визуализации и экспорта актуальных вакансий из единой цифровой платформы **«Работа России»** (`opendata.trudvsem.ru`).
+
 
 ---
 
